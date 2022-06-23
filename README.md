@@ -1,6 +1,6 @@
 ## Git tutorial 
 
-This is the reference repository for a tutorial on the basics of using git!
+This is the reference repository for a tutorial on the basics of using git.
 
 Reference material:
 - the [git book](https://www.git-scm.com/book/en/v2);
