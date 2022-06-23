@@ -48,6 +48,9 @@ Format commit messages like
 git commit -m "<type>: <did something>" -m "<longer description (optional)>"
 ```
 
+You can use `git commit --amend` to add revisions to the last commit 
+you made! 
+
 Short diversion: `git add -i`, a way to interactively select which changes you want 
 to stage to be committed.
 
