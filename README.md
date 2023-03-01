@@ -10,3 +10,4 @@ Reference material:
 - the [GitHub flow](https://githubflow.github.io/) model;
 - [semantic versioning](https://semver.org/);
 - [conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/).
+- [autostash before rebasing/merging](https://adamj.eu/tech/2022/11/05/git-automatically-stash-rebase-merge/)
