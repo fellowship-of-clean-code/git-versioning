@@ -2,6 +2,8 @@
 
 This is the reference repository for a tutorial on the basics of using git.
 
+If you're here trying to fix the mess you've made, also check out [oh shit git](https://ohshitgit.com/) (or [dangit git](https://dangitgit.com/en) if you don't want swearing).
+
 Reference material:
 - the [git book](https://www.git-scm.com/book/en/v2);
 - the interactive site [learn git branching](https://learngitbranching.js.org/);
